@@ -12,9 +12,9 @@ I am a systems engineer, I like technology, programming, artificial intelligence
 <p align="center">
 <a href="https://linkedin.com/in/jimmyosma"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Jimmy LinkedIn" /></a>&nbsp;&nbsp;
 <a href="https://github.com/jim109">
-  <img align="center" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github" alt="Github" />
+  <img align="center" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github" alt="Github" />  &nbsp;
 </a>
-<a href="https://linkedin.com/in/jimmyosma"><img align="center" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Jimmy Slack" /></a>
+
 
 <hr/>
 </p>
