@@ -2,7 +2,7 @@
 
 <div>
     <img src="https://user-images.githubusercontent.com/6772570/162761187-2947ac04-c989-4360-80fa-3ca7dd8fcfea.png"       width="200px" align="left" />
-    <p>I´m Junior Front-end Engineer, currently based in Bucaramanga-Colombia.</p>
+    <p>I´m Front-end Engineer, currently based in Bucaramanga-Colombia.</p>
     <p>
 I am a systems engineer, I like technology, programming, artificial intelligence, cryptocurrencies, anime and riding a bicycle. I like web development using javascript and libraries like react, I style my projects in css with Sass and I use frameworks like Nextjs.</p>
   <p>Work with agile methodologies such as Scrum.</p>
