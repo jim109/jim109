@@ -50,7 +50,7 @@ I am a systems engineer, I like technology, programming, artificial intelligence
 <p align="center">
 <a href="https://firebase.google.com">
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
-</a>
+</a>&nbsp;
 <a href="https://www.mongodb.com/es">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </a>
@@ -71,6 +71,9 @@ I am a systems engineer, I like technology, programming, artificial intelligence
   </a>  &nbsp;
     <a href='https://code.visualstudio.com/'>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://affinity.serif.com/es/">
+  <img src="https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" />
   </a>
   &nbsp;
     <a href='https://webpack.js.org/'>
