@@ -46,6 +46,11 @@ I am a systems engineer, I like technology, programming, artificial intelligence
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   </a>
 </p><hr/>
+<h4 align="center">Databases</h4>
+<p align="center">
+<img src="(https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+&nbsp;
+</p>
 <h4 align="center">Dev Tools</h4>
 <p align="center">
     <a href='https://git-scm.com/'>
