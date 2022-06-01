@@ -44,7 +44,14 @@ I am a systems engineer, I like technology, programming, artificial intelligence
   &nbsp;
   <a href='https://nextjs.org/'>
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  </a>
+  </a>&nbsp;
+    <a href="https://flutter.dev/">
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://es.redux.js.org/">
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+    </a>
 </p><hr/>
 <h4 align="center">Databases</h4>
 <p align="center">
