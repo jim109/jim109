@@ -89,6 +89,28 @@ I am a systems engineer, I like technology, programming, artificial intelligence
  
 </p><hr/>
 
+
+<h4 align="center">Hostings</h4>
+<p align="center">
+    <a href='https://firebase.google.com/'>
+    <img src='https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase' />
+  </a>
+  &nbsp;
+    <a href='https://www.heroku.com/'>
+    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+  </a>
+  &nbsp;
+    <a href='https://www.netlify.com/'>
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+  </a>  &nbsp;
+    <a href='https://vercel.com/'>
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+ 
+</p><hr/>
+
+
+
 <h4 align="center">GitHub Stats</h4>
 <a>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jim109&theme=dark&show_icons=true&line_height=27&" alt="JimmyOsma" />
